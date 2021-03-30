@@ -1,0 +1,161 @@
+    body {
+        position: relative;
+        width: 1383px;
+        height: 4833px;
+        background: #FEFEFE;
+        padding: 40px;
+        top: -20px;
+    }
+    
+    .home {
+        position: absolute;
+        width: 43px;
+        height: 19px;
+        left: 548px;
+        top: 81px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        color: #F5821F;
+    }
+    
+    #bullet {
+        /* Ellipse 2 */
+        position: absolute;
+        width: 6px;
+        height: 6px;
+        left: 15px;
+        top: 30px;
+        background: #F5821F;
+    }
+    
+    .carriers {
+        position: absolute;
+        width: 57px;
+        height: 19px;
+        left: 659px;
+        top: 81px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        color: #030533;
+    }
+    
+    .about {
+        position: absolute;
+        width: 66px;
+        height: 19px;
+        left: 780px;
+        top: 81px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        color: #030533;
+    }
+    
+    .contact {
+        position: absolute;
+        width: 79px;
+        height: 19px;
+        left: 910px;
+        top: 81px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        color: #030533;
+    }
+    
+    button {
+        /* Rectangle 50 */
+        position: absolute;
+        width: 151px;
+        height: 48px;
+        left: 1300px;
+        top: 66px;
+        border: 1px solid #F5821F;
+        box-sizing: border-box;
+        border-radius: 4px;
+        /* Log in */
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        color: #9c9c9c;
+    }
+    
+    button:hover {
+        opacity: 0.8;
+    }
+    
+    .rectangle {
+        /* Rectangle 63 */
+        position: absolute;
+        width: 1650px;
+        height: 700px;
+        left: -40px;
+        top: 149px;
+        background: rgba(43, 43, 43, 0.7);
+        mix-blend-mode: multiply;
+    }
+    
+    .member {
+        position: absolute;
+        width: 405px;
+        height: 56px;
+        left: 600px;
+        top: 420px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 56px;
+        color: #FFFFFF;
+    }
+    
+    .rectangle2 {
+        position: absolute;
+        width: 711px;
+        height: 231px;
+        left: 1px;
+        top: 146px;
+        background: linear-gradient(179.67deg, #0E201A 0.29%, rgba(64, 64, 64, 0) 90.24%);
+        transform: matrix(0, 1, 1, 0, 0, 0);
+    }
+    
+    .btn {
+        /* Rectangle 50 */
+        position: absolute;
+        width: 151px;
+        height: 48px;
+        left: 700px;
+        top: 550px;
+        background-color: #F5821F;
+        box-sizing: border-box;
+        border-radius: 4px;
+        /* register now */
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 50px;
+        color: #FFFFFF
+    }
+    
+    .btn:hover {
+        opacity: 0.8;
+    }
+    
+    .rectangle3 {}
